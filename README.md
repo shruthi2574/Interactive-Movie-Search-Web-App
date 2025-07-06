@@ -55,6 +55,7 @@ IMDB Rating: 8.0
 [Poster shown here]
 
 ---
+```
 
 ## 📂 Project Structure
 
