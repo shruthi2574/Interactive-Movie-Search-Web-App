@@ -54,7 +54,6 @@ Plot: In ancient India, an adventurous and daring man becomes involved in a deca
 IMDB Rating: 8.0
 [Poster shown here]
 
----
 ```
 
 ## 📂 Project Structure
